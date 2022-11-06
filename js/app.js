@@ -17,3 +17,5 @@ for (let counter = -1; counter < userAges.length; counter++)
     if (userAges[counter] < 18){
     console.log(usernames[counter]);
 }
+
+//Complete.
